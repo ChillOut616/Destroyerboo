@@ -1,0 +1,18 @@
+whitelist = {
+[1135307257] = false, --@Dyo
+[333185341] = false, --machzuki
+[1230697349] = false, --@androide_2304
+[589416812] = false, --@Awstione3
+[3408555480] = false, --@sileesestopasasig
+[949153472] = false, --@chaucato15
+[490540467] = false, --@yunokawai2906
+[170839962] = true, --@dtlewis123 buyer
+[1124939483] = true, --@modeikon 
+[517949993] = true, --@Akumasxo buyer
+[54968368] = false, --@allsafa
+[742101119] = false, --regs
+[1457173039] = false, --Unknown
+[880956524] = true, --@proelefsi buyer
+[321321] = false
+}
+return whitelist
