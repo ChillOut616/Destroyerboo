@@ -13,6 +13,7 @@ whitelist = {
 [742101119] = false, --regs
 [1457173039] = false, --Unknown
 [880956524] = true, --@proelefsi buyer
+[347053554] = true, --@galaticgansters
 [321321] = false
 }
 return whitelist
