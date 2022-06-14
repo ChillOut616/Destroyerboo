@@ -1,0 +1,14 @@
+--The numbers are UserIds.
+whitelist = {
+[1135307257] = true, --@Dyo
+[333185341] = false, --machzuki
+[490540467] = false, --@yunokawai2906
+[170839962] = true, --@dtlewis123
+[1124939483] = true, --@modeikon
+[880956524] = true, --@proelefsi
+[347053554] = true, --@galaticgansters
+[115921415] = false, --@NA_Nexus
+[482798097] true, --@greenhornet843
+[321321] = false
+}
+return whitelist
